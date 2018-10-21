@@ -1,0 +1,1 @@
+cloud is a collection of resources and various services at a far distance which can be provided on your demand.
