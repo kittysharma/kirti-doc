@@ -1,1 +1,5 @@
 cloud is a collection of resources and various services at a far distance which can be provided on your demand.
+basically 3 services work in cloud.
+platform as a services.
+infrastructure as a service.
+storage as a service.
